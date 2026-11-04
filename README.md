@@ -2,7 +2,7 @@
 
 I build interfaces that feel finished, from Makassar, Indonesia.
 
-**Now:** [Multidash](https://github.com/hasralgana/multidash), accessible React
+**Now:** [Dashral](https://github.com/hasralgana/dashral), accessible React
 components, blocks and Next.js dashboards, free and open source.
 Pro dashboards and app screens are coming soon.
 
