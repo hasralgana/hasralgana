@@ -11,4 +11,4 @@ football data, thumbnail cleanup) for Indonesian publishers.
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · PHP · WordPress
 
-[Website](https://hasral.web.id) · [X](https://x.com/hasralgana)
+[Website](https://hasral.com) · [X](https://x.com/hasralgana)
